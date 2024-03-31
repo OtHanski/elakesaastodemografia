@@ -1,0 +1,7 @@
+Ikä	Täysin_samaa	jokseenkin_samaa	neutral	eos	jokseenkin_eri	täysin_eri
+80-90	5	10	9	1	24	51
+65-79	4	14	9	1	17	55
+50-64	8	16	9	1	27	38
+35-49	16	24	8	2	25	24
+25-34	27	21	9	1	18	23
+18-24	22	25	14	4	19	16

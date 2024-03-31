@@ -1,0 +1,9 @@
+Puolue	Täysin_samaa	jokseenkin_samaa	neutral	eos	jokseenkin_eri	täysin_eri
+VAS	9	21	9	0	23	38
+SDP	8	16	10	3	20	43
+VIHR	27	23	3	2	23	21
+KESK	14	22	15	1	17	32
+RKP	9	22	15	0	16	37
+KD	5	5	16	0	37	37
+KOK	13	19	12	1	25	31
+PS	19	22	6	1	23	28
